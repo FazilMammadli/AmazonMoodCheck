@@ -1,4 +1,4 @@
-# AmazonSentimentAI 🔍📢  
+# AmazonMoodCheck 🔍📢  
 
 **Analyzing customer sentiment through Amazon reviews** helps businesses understand **customer satisfaction trends, product feedback, and areas of improvement**. This project applies **natural language processing (NLP) and machine learning** to classify customer reviews as **positive or negative**, providing valuable insights into consumer behavior.
 
